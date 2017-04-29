@@ -1,1 +1,1 @@
-# BST-graphic-representation
+# Binary Search Tree Graphical Representation
